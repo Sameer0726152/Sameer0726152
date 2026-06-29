@@ -88,9 +88,9 @@ Personal portfolio showcasing my projects and skills.
 
 ## GitHub Stats
 
-![Sameer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sameer0726152&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=Sameer0726152&show_icons=true&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sameer0726152&layout=compact&theme=github_dark)
+![Top Languages](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Sameer0726152&layout=compact&theme=github_dark)
 
 ---
 
