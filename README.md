@@ -97,6 +97,6 @@ Personal portfolio showcasing my projects and skills.
 ## Connect
 
 * GitHub: https://github.com/Sameer0726152
-* LinkedIn: *(Add your LinkedIn profile here)*
+* LinkedIn: https://www.linkedin.com/in/sameer-talekar-8a1846329
 
 Thanks for visiting my profile!
