@@ -31,7 +31,7 @@ My GitHub primarily documents my learning journey through coursework, personal p
 
 ## Technologies & Tools
 
-**Backend**
+**Backend** (Learning)
 
 * Node.js
 * Express.js
@@ -47,6 +47,8 @@ My GitHub primarily documents my learning journey through coursework, personal p
 * Git
 * GitHub
 * VS Code
+* Vercel
+* Hela Testnet
 
 **Embedded**
 
