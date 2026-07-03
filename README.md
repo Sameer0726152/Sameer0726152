@@ -1,102 +1,18 @@
-# Hi there 👋 I'm Sameer Talekar
+# 💫 About Me:
+I'm an undergraduate AI & Data Science student who enjoys building practical software, solving programming problems, and exploring new technologies through hands-on projects.<br><br>My GitHub primarily documents my learning journey through coursework, personal projects, hackathons, and programming practice.
 
-## AI & Data Science Engineering Student | Software Developer
 
-I'm an undergraduate AI & Data Science student who enjoys building practical software, solving programming problems, and exploring new technologies through hands-on projects.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sameer-talekar-8a1846329/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sameertalekar2007@gmail.com) 
 
-My GitHub primarily documents my learning journey through coursework, personal projects, hackathons, and programming practice.
-
----
-
-## 👨‍💻 About Me
-
-* 🎓 BE Artificial Intelligence & Data Science Student
-* 💻 Interested in Software Development, AI, Databases, and Full Stack Development
-* 🌱 Currently learning Data Structures & Algorithms and modern Web Development
-* 🚀 I enjoy building projects that solve real-world problems.
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Sameer0726152&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Sameer0726152&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sameer0726152&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Sameer0726152&icon=1&color=0)](https://visitcount.itsvg.in)
 
-## 🛠️ Languages
-
-* Java
-* Python
-* JavaScript
-* SQL
-* HTML
-* CSS
-* C
-
----
-
-## Technologies & Tools
-
-**Backend** (Learning)
-
-* Node.js
-* Express.js
-* REST APIs
-
-**Database**
-
-* MySQL
-* MongoDB
-
-**Development**
-
-* Git
-* GitHub
-* VS Code
-* Vercel
-* Hela Testnet
-
-**Embedded**
-
-* Arduino
-
----
-
-## Featured Projects
-
-### 🔹 Algoryx Swapwave
-
-Hackathon project focused on blockchain-based token swapping and API integration.
-
-### 🔹 Expense Task Manager
-
-A practical application for managing expenses and daily tasks.
-
-### 🔹 Smart Glove Gesture to Text
-
-Arduino-based project that converts hand gestures into text using sensors.
-
-### 🔹 Portfolio Website
-
-Personal portfolio showcasing my projects and skills.
-
----
-
-## Currently Working On
-
-* Data Structures & Algorithms
-* Full Stack Development
-* JavaScript
-* Backend Development
-* Competitive Programming
-
----
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=Sameer0726152&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Sameer0726152&layout=compact&theme=github_dark)
-
----
-
-## Connect
-
-* GitHub: https://github.com/Sameer0726152
-* LinkedIn: https://www.linkedin.com/in/sameer-talekar-8a1846329
-
-Thanks for visiting my profile!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
