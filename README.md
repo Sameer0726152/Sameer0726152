@@ -14,6 +14,6 @@ I'm an undergraduate AI & Data Science student who enjoys building practical sof
 
 ---
 
-[![](https://komarev.com/ghpvc/?username=Sameer0726152&icon=1&color=00FFFF)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=Sameer0726152&icon=1&color=E52F0B)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
